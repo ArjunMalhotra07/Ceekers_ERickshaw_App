@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "539617992682",
+    "project_id": "eric-66427",
+    "storage_bucket": "eric-66427.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539617992682:android:5463722a67f94eb3ff5c93",
+        "android_client_info": {
+          "package_name": "com.example.eric"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "539617992682-up6cm9l06sslihs94gei03f757p6m17c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDzHvFXupBw5iCMEVXu8ob2XzNDpzMFBc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "539617992682-up6cm9l06sslihs94gei03f757p6m17c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
